@@ -1,5 +1,5 @@
 # maven-project
-Source code for James Lee's Jenkins course.
+Source code for James Lee's Jenkins course. Added github jenkins webhook
 
 Check out our Latest DevOps PDF book.
 
